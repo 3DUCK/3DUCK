@@ -5,7 +5,8 @@
 - 2024 한성SW중심대학 페스티벌 캡스톤 전시회 우수상
 - 2025 시스코 이노베이션 챌린지 장려상
 
-[Uploading 2025 Cisco Innovation Challenge_Honorable Mention_Gunwoo Kim.pdf…]()
+[2025 Cisco Innovation Challenge_Honorable Mention_Gunwoo Kim.pdf](https://github.com/user-attachments/files/20114708/2025.Cisco.Innovation.Challenge_Honorable.Mention_Gunwoo.Kim.pdf)
+
 
 ## My GitHub Organizations
 - [한성SW중심대학 페스티벌 캡스톤 전시회 - AI 템플릿 메이커](https://github.com/HSU-SPARKLE)
