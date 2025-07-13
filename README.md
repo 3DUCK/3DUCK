@@ -29,7 +29,7 @@ Mar. 2019 – Present
 
 | Year | Award | Organization |
 |------|-------|--------------|
-| 2025 | Best Oral Presentation Award [(PDF)](./awards/ksae_2025.pdf) | KSAE Spring Conference |
+| 2025 | Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
 | 2025 | Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
 | 2025 | Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
 | 2024 | Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
