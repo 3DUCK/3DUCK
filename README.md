@@ -13,7 +13,6 @@ I enjoy building systems that integrate real-world engineering problems with cut
 **Hansung University**, Seoul, Korea  
 Bachelor of Engineering in Computer Engineering  
 Mar. 2019 – Present  
-- GPA: 3.99 / 4.5  
 - Advisor: Prof. Seunghyun Park (IMCS Lab)  
 - Current undergraduate research student (since Jan. 2025)
 
