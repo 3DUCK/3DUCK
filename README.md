@@ -37,15 +37,6 @@ Mar. 2019 – Present
 
 ---
 
-## Research Interests
-
-- Autonomous Driving & SDV
-- Secure OTA Software Update
-- Blockchain & CP-ABE
-- AI System Engineering
-
----
-
 ## Selected Projects
 
 ### Blocker — Blockchain Network IoT Software Update  
