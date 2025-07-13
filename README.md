@@ -16,22 +16,22 @@ Mar. 2019 – Present
 
 ---
 
-## Scholarships
+## 🎓 Scholarships
 
-- **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
-- **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024  
+- 🏅 **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
+- 🥈 **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024  
 
 ---
 
-## Achievements & Awards
+## 🏆 Achievements & Awards
 
 | Year | Award | Organization |
 |------|-------|--------------|
-| 2025 | Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
-| 2025 | Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
-| 2025 | Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
-| 2024 | Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
-| 2024 | Bronze Prize [(PDF)](./awards/engineering_2024.pdf) | Hansung Engineering Competition |
+| 2025 | 🥇 Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
+| 2025 | 🎖️ Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
+| 2025 | 🏆 Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
+| 2024 | 🏆 Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
+| 2024 | 🥉 Bronze Prize [(PDF)](./awards/engineering_2024.pdf) | Hansung Engineering Competition |
 
 > All award certificates can be found in the `awards/` folder.
 
