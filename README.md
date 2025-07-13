@@ -1,21 +1,80 @@
+# Geonu Kim (김건우)
 
-## My Story
-- 2019 한성대학교 컴퓨터공학부 입학
-- 2024 한성대학교 컴퓨터공학부 공학경진대회 동상
-- 2024 한성SW중심대학 페스티벌 캡스톤 전시회 우수상
-- 2025 시스코 이노베이션 챌린지 장려상
-- 2025 한국자동차공학회 춘계학술대회 오랄 세션 발표
-- 2025 한성대학교 캡스톤 디자인 우수상
+Welcome to my GitHub.
 
+I am an undergraduate researcher in Computer Engineering at Hansung University in Seoul, Korea. My work centers around autonomous driving systems, secure software updates for SDVs (Software-Defined Vehicles), blockchain technology, and cybersecurity.
 
+I enjoy building systems that integrate real-world engineering problems with cutting-edge software solutions. Below, you can explore my key achievements, projects, and affiliations.
 
+---
 
-<img width="1124" alt="image" src="https://github.com/user-attachments/assets/65144a7c-4d08-4876-bc91-e724733bb1db" />
+## Achievements & Awards
 
+| Year | Award | Organization |
+|------|-------|--------------|
+| 2025 | Best Oral Presentation Award [(PDF)](./awards/ksae_2025.pdf) | KSAE Spring Conference |
+| 2025 | Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
+| 2025 | Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
+| 2024 | Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
+| 2024 | Bronze Prize [(PDF)](./awards/engineering_2024.pdf) | Hansung Engineering Competition |
 
+> All award certificates can be found in the `awards/` folder.
 
-## My GitHub Organizations
-- [한성SW중심대학 페스티벌 캡스톤 전시회 - AI 템플릿 메이커](https://github.com/HSU-SPARKLE)
-- [한성대학교 캡스톤 디자인 - SimCar](https://github.com/Oz-Capstone)
-- [Blocker - Blockchain Network IoT Software Update](https://github.com/HSU-Blocker)
-- [Cisco Innovation Challenge 2025 - 오늘은 어디 가시나요?](https://github.com/HSU-ThePathWeAreGoingToWalk)
+---
+
+## Research Interests
+
+- Autonomous Driving & SDV
+- Secure OTA Software Update
+- Blockchain & CP-ABE
+- AI System Engineering
+
+---
+
+## Selected Projects
+
+### Blocker — Blockchain Network IoT Software Update  
+[GitHub Repository](https://github.com/HSU-Blocker)  
+A secure OTA update platform for IoT devices using CP-ABE with partial key updates.
+
+### SimCar — AI-Based Used Car Marketplace  
+[GitHub Repository](https://github.com/Oz-Capstone)  
+iOS app for AI-powered car diagnosis and secure transaction services.
+
+### OCD Simulator — Psychological Simulation Game  
+Unity-based simulation game exploring obsessive-compulsive behaviors and empathy.
+
+### AI Template Maker — Generative Ad Creation Tool  
+[GitHub Repository](https://github.com/HSU-SPARKLE)  
+A system that generates advertising images using generative AI and integrates with SMS delivery services.
+
+### Cisco Innovation Challenge: “오늘은 어디 가시나요?”  
+[GitHub Repository](https://github.com/HSU-ThePathWeAreGoingToWalk)  
+An AI chatbot system for rural bus stops, including frontend design and Cisco product integration.
+
+---
+
+## GitHub Organizations
+
+- [`HSU-SPARKLE`](https://github.com/HSU-SPARKLE) – SW Festival Capstone AI Project  
+- [`Oz-Capstone`](https://github.com/Oz-Capstone) – SimCar: Used Car Diagnosis Platform  
+- [`HSU-Blocker`](https://github.com/HSU-Blocker) – Blockchain IoT Software Update  
+- [`HSU-ThePathWeAreGoingToWalk`](https://github.com/HSU-ThePathWeAreGoingToWalk) – Cisco Challenge Team
+
+---
+
+## Contact
+
+- Email: [kermit7520k@gmail.com](mailto:kermit7520k@gmail.com)  
+- GitHub: [3DUCK](https://github.com/3DUCK)  
+- Affiliation: Hansung University, IMCS Lab
+
+---
+
+## Skills and Technologies
+
+- Languages: Python, Java, JavaScript  
+- Frameworks: React, React Native, Docker, Firebase  
+- Platforms: iOS, Android, Unity  
+- Security: CP-ABE, BLAKE3, SHA-256  
+- Fields: Autonomous Driving, Secure OTA, Blockchain, Embedded Systems
