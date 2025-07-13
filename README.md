@@ -4,7 +4,25 @@ Welcome to my GitHub.
 
 I am an undergraduate researcher in Computer Engineering at Hansung University in Seoul, Korea. My work centers around autonomous driving systems, secure software updates for SDVs (Software-Defined Vehicles), blockchain technology, and cybersecurity.
 
-I enjoy building systems that integrate real-world engineering problems with cutting-edge software solutions. Below, you can explore my key achievements, projects, and affiliations.
+I enjoy building systems that integrate real-world engineering problems with cutting-edge software solutions. Below, you can explore my key achievements, academic background, research projects, and technical skills.
+
+---
+
+## Education
+
+**Hansung University**, Seoul, Korea  
+Bachelor of Engineering in Computer Engineering  
+Mar. 2019 – Present  
+- GPA: 3.99 / 4.5  
+- Advisor: Prof. Seunghyun Park (IMCS Lab)  
+- Current undergraduate research student (since Jan. 2025)
+
+---
+
+## Scholarships
+
+- **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
+- **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024  
 
 ---
 
