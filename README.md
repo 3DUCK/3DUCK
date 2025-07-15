@@ -1,4 +1,4 @@
-# Geonu Kim
+# GEONU KIM
 
 Welcome to my GitHub.
 
