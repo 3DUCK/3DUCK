@@ -72,8 +72,7 @@ An AI chatbot system for rural bus stops, including frontend design and Cisco pr
 
 ## Contact
 
-- Email: [kermit7520k@gmail.com](mailto:riven5124@hansung.ac.kr)  
-- GitHub: [3DUCK](https://github.com/3DUCK)  
+- Email: [riven5124@hansung.ac.kr](mailto:riven5124@hansung.ac.kr)  
 - Affiliation: Hansung University, IMCS Lab
 
 ---
