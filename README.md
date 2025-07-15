@@ -67,6 +67,7 @@ An AI chatbot system for rural bus stops, including frontend design and Cisco pr
 - [`Oz-Capstone`](https://github.com/Oz-Capstone) – SimCar: Used Car Diagnosis Platform  
 - [`HSU-Blocker`](https://github.com/HSU-Blocker) – Blockchain IoT Software Update  
 - [`HSU-ThePathWeAreGoingToWalk`](https://github.com/HSU-ThePathWeAreGoingToWalk) – Cisco Challenge Team
+- [`It's brief, but weighty.`](https://github.com/2-Clips) - Hanium Dream UP ICT Mentoring Project
 
 ---
 
