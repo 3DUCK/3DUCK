@@ -11,7 +11,7 @@ I am an undergraduate researcher in Computer Engineering at Hansung University i
 **Hansung University**, Seoul, Korea  
 Bachelor of Engineering in Computer Engineering  
 Mar. 2019 – Present  
-- Advisor: Prof. Seunghyun Park (IMCS Lab)  
+- Advisor: Prof. Seunghyun Park ([IMCS Lab](https://imcslab.github.io/))  
 - Current undergraduate research student (since Jan. 2025)
 
 ---
