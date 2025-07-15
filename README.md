@@ -4,6 +4,8 @@ Welcome to my GitHub.
 
 I am an undergraduate researcher in Computer Engineering at Hansung University in Seoul, Korea. My work centers around autonomous driving systems, secure software updates for SDVs (Software-Defined Vehicles), blockchain technology, and cybersecurity.
 
+> **"지나간 일은 후회하지 않는다."**
+
 ---
 
 ## Education
@@ -71,7 +73,7 @@ An AI chatbot system for rural bus stops, including frontend design and Cisco pr
 
 ## Contact
 
-- Email: [kermit7520k@gmail.com](mailto:kermit7520k@gmail.com)  
+- Email: [kermit7520k@gmail.com](mailto:riven5124@hansung.ac.kr)  
 - GitHub: [3DUCK](https://github.com/3DUCK)  
 - Affiliation: Hansung University, IMCS Lab
 
