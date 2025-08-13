@@ -29,6 +29,7 @@ Mar. 2019 – Present
 
 | Year | Award | Organization |
 |------|-------|--------------|
+| 2025 | 🥇 Grand Prize [(PNG)]() | Hansung C&C Festival |
 | 2025 | 🥇 Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
 | 2025 | 🎖️ Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
 | 2025 | 🏆 Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
