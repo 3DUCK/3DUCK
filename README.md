@@ -21,7 +21,6 @@ Mar. 2019 – Present
 
 - 🏅 **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
 - 🥈 **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024
-- 🥈 **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2025
 
 ---
 
