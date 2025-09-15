@@ -1,5 +1,4 @@
 # GEONU KIM
-> **"지나간 일은 후회하지 않는다."**
 
 Welcome to my GitHub.
 
