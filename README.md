@@ -38,6 +38,12 @@ Mar. 2019 – Present
 
 ---
 
+## 📜 Certifications
+
+- 정보처리기사 (Engineer Information Processing), 한국산업인력공단 (Human Resources Development Service of Korea), 2025
+
+---
+
 ## Selected Projects
 
 ### Blocker — Blockchain Network IoT Software Update  
