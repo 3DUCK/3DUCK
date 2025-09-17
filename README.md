@@ -7,10 +7,10 @@ I am an undergraduate researcher in Computer Engineering at Hansung University i
 
 ---
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kermit7520k})](https://solved.ac/profile/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kermit7520k)](https://solved.ac/profile/{handle})
 
 
-![snake gif](https://github.com/3DUCK/3DUCK/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kermit7520k/kermit7520k/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## Education
