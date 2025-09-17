@@ -4,6 +4,13 @@ Welcome to my GitHub.
 
 I am an undergraduate researcher in Computer Engineering at Hansung University in Seoul, Korea. My work centers around autonomous driving systems, secure software updates for SDVs (Software-Defined Vehicles), blockchain technology, and cybersecurity.
 
+
+---
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kermit7520k})](https://solved.ac/profile/{handle})
+
+
+![snake gif](https://github.com/3DUCK/3DUCK/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## Education
