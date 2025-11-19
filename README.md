@@ -39,6 +39,7 @@ Mar. 2019 – Present
 | 2025 | 🥇 Grand Prize [(PNG)](./awards/C&C_festival_2025.pdf) | Hansung C&C Festival |
 | 2025 | 🥇 Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
 | 2025 | 🎖️ Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
+| 2025 | 🎖️ Encouragement Award [(PDF)](./awards/hanium_2025.pdf) | Hanium Dream-Up Project |
 | 2025 | 🏆 Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
 | 2024 | 🏆 Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
 | 2024 | 🥉 Bronze Prize [(PDF)](./awards/engineering_2024.pdf) | Hansung Engineering Competition |
