@@ -60,6 +60,14 @@ Mar. 2019 – Present
 [GitHub Repository](https://github.com/HSU-Blocker)  
 A secure OTA update platform for IoT devices using CP-ABE with partial key updates.
 
+### Cisco Innovation Challenge: “오늘은 어디 가시나요?”  
+[GitHub Repository](https://github.com/HSU-ThePathWeAreGoingToWalk)  
+An AI chatbot system for rural bus stops, including frontend design and Cisco product integration.
+
+### Hanium Dream-Up Project : “E-Clips: 강의도 숏폼 시대, 1분이면 OK”  
+[GitHub Repository](https://github.com/2-Clips)  
+A next-generation short-form lecture platform featuring automated AI-based lecture clip generation and interactive learning tools.
+
 ### SimCar — AI-Based Used Car Marketplace  
 [GitHub Repository](https://github.com/Oz-Capstone)  
 iOS app for AI-powered car diagnosis and secure transaction services.
@@ -71,9 +79,7 @@ Unity-based simulation game exploring obsessive-compulsive behaviors and empathy
 [GitHub Repository](https://github.com/HSU-SPARKLE)  
 A system that generates advertising images using generative AI and integrates with SMS delivery services.
 
-### Cisco Innovation Challenge: “오늘은 어디 가시나요?”  
-[GitHub Repository](https://github.com/HSU-ThePathWeAreGoingToWalk)  
-An AI chatbot system for rural bus stops, including frontend design and Cisco product integration.
+
 
 ---
 
