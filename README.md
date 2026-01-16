@@ -11,7 +11,7 @@ I am an undergraduate researcher in Computer Engineering at Hansung University i
 **Korea University**, Seoul, Korea
 - Integrated Master's - Ph.D. Program in Computer Security
 (Mar. 2026 - Present(Expected))
-- Advisor: Prof. Hoh Peter In ([IBEL](https://ibel.korea.ac.kr/))
+- Advisor: Prof. Hoh Peter In ([Intelligent Blockchain Engineering Lab.](https://ibel.korea.ac.kr/))
 - Enrolled Student (Mar. 2026 - Present(Expected))
 
 Hansung University, Seoul, Korea
