@@ -8,13 +8,13 @@ I am an undergraduate researcher in Computer Engineering at Hansung University i
 
 ## Education
 
-#### **Korea University**, Seoul, Korea
+### Korea University, Seoul, Korea
 - Integrated Master's - Ph.D. Program in Computer Security
 (Mar. 2026 - Present(Expected))
 - Advisor: Prof. Hoh Peter In ([Intelligent Blockchain Engineering Lab.](https://ibel.korea.ac.kr/))
 - Enrolled Student (Mar. 2026 - Present(Expected))
 
-**Hansung University**, Seoul, Korea
+**Hansung University, Seoul, Korea**
 - Bachelor of Engineering in Computer Engineering
 (Mar. 2019 – Feb. 2026)
 - Advisor: Prof. Seunghyun Park ([IMCS Lab.](https://imcslab.github.io/))
