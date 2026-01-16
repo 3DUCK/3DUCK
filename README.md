@@ -45,6 +45,7 @@ I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My re
 ## 📜 Certifications
 
 - 정보처리기사 (Engineer Information Processing), 한국산업인력공단 (Human Resources Development Service of Korea), 2025
+- SQL 개발자 (SQL Developer), 한국데이터산업진흥원 (Korea Data Agency), 2025
 
 ---
 
