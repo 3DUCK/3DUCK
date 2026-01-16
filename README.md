@@ -2,8 +2,7 @@
 
 Welcome to my GitHub.
 
-I am an undergraduate researcher in Computer Engineering at Hansung University in Seoul, Korea. My work centers around autonomous driving systems, secure software updates for SDVs (Software-Defined Vehicles), blockchain technology, and cybersecurity.
-
+I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My research interests lie at the intersection of Blockchain and Artificial Intelligence. Currently, I am focusing on Federated Learning, Security Token Offerings (STO), and developing secure Decentralized Applications (dApps).
 ---
 
 ## Education
