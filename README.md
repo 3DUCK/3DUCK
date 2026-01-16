@@ -8,18 +8,15 @@ I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My re
 
 ## Education
 
-### Korea University, Seoul, Korea
-- Integrated Master's - Ph.D. Program in Computer Security
-(Starting Mar. 2026)
+### <img src="https://upload.wikimedia.org/wikipedia/ko/3/34/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg" width="25px" height="25px" alt="KU Logo"> Korea University, Seoul, Korea
+- Integrated Master's - Ph.D. Program in Computer Security (Starting Mar. 2026)
 - Advisor: Prof. Hoh Peter In ([Intelligent Blockchain Engineering Lab.](https://ibel.korea.ac.kr/))
 - Current Status: Undergraduate Research Assistant (Pre-admission)
 
-**Hansung University, Seoul, Korea**
-- Bachelor of Engineering in Computer Engineering
-(Mar. 2019 – Feb. 2026)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hansung_University_logo.png/600px-Hansung_University_logo.png" width="25px" height="25px" alt="Hansung Logo"> Hansung University, Seoul, Korea
+- Bachelor of Engineering in Computer Engineering (Mar. 2019 – Feb. 2026)
 - Advisor: Prof. Seunghyun Park ([IMCS Lab.](https://imcslab.github.io/))
 - Undergraduate Research Student (Jan. 2025 - Jan. 2026)
-
 ---
 
 ## 🎓 Scholarships
