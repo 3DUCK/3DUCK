@@ -13,7 +13,7 @@ I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My re
 - Advisor: Prof. Hoh Peter In ([Intelligent Blockchain Engineering Lab.](https://ibel.korea.ac.kr/))
 - Current Status: Undergraduate Research Assistant (Pre-admission)
 
-### <img src="https://www.hansung.ac.kr/sites/hansung/images/common/logo_footer.png" width="25px" height="25px" alt="Hansung Logo"> Hansung University, Seoul, Korea
+### <img src="./logos/hansung_university_logo.png" width="25px" height="25px" alt="Hansung Logo"> Hansung University, Seoul, Korea
 - Bachelor of Engineering in Computer Engineering (Mar. 2019 – Feb. 2026)
 - Advisor: Prof. Seunghyun Park ([IMCS Lab.](https://imcslab.github.io/))
 - Undergraduate Research Student (Jan. 2025 - Jan. 2026)
