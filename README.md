@@ -8,7 +8,7 @@ I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My re
 
 ## Education
 
-### <img src="https://upload.wikimedia.org/wikipedia/ko/3/34/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg" width="25px" height="25px" alt="KU Logo"> Korea University, Seoul, Korea
+### Korea University, Seoul, Korea
 - Integrated Master's - Ph.D. Program in Computer Security
 (Starting Mar. 2026)
 - Advisor: Prof. Hoh Peter In ([Intelligent Blockchain Engineering Lab.](https://ibel.korea.ac.kr/))
