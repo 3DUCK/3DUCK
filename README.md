@@ -30,6 +30,28 @@ My research interests include **Blockchain**, **AI Agents**, and **Cybersecurity
 
 ---
 
+## Publications
+
+### Conference Papers
+
+- **Kim, G.**, Park, H., Park, M., Park, J., Gong, S., et al.
+  *Strengthening the Security of CP-ABE-based IoT Software Updates Using Attribute Expiration and Attribute-Level Key Updates.*
+  KSAE Spring Conference, 2025.
+
+- Park, J., Gong, S., **Kim, G.**, Park, H., Park, M., et al.
+  *Performance Evaluation of Hash Functions for Software Updates in Automotive ECU Environments.*
+  KSAE Spring Conference, 2025.
+
+- **Kim, G.**, Hong, S., Lee, S., Lee, H., Yang, D., Kim, I.
+  *AI-based Short-form Transformation and Interactive Learning Platform for University Lectures for Generation Z.*
+  KIPS ACK 2025.
+
+- **Kim, G.**, Yang, D., Hong, S., Lee, H., Lee, S., Cho, S.
+  *Educational Short-form Videos from Lecture Archives using Multi-modal AI.*
+  DigiCon-25.
+
+  ---
+
 ## Scholarships
 
 - **SW Talent Scholarship**, Korea University, Spring 2026
