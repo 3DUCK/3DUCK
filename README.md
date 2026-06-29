@@ -19,25 +19,33 @@ I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My re
 - Undergraduate Research Student (Jan. 2025 - Jan. 2026)
 ---
 
-## 🎓 Scholarships
+## Activities
 
-- 🏅 **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
-- 🥈 **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024
+### <img src="./logos/hansung_university_logo.png" width="25px" height="25px" alt="Hansung Logo"> Digital Contents & Multimedia (DC&M), Hansung University
+**Academic Club Member** (Sep. 2024 – Feb. 2026)
+- Advised by Prof. Saehong Cho
 
 ---
 
-## 🏆 Achievements & Awards
+## Scholarships
+
+- **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
+- **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024
+
+---
+
+## Achievements & Awards
 
 | Year | Award | Organization |
 |------|-------|--------------|
-| 2025 | 🥇 Grand Prize [(PNG)](./awards/C&C_festival_2025.pdf) | Hansung C&C Festival |
-| 2025 | 🥇 Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
-| 2025 | 🎖️ Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
-| 2025 | 🎖️ Encouragement Award [(PDF)](./awards/hanium_2025.pdf) | Hanium Dream-Up Project |
-| 2025 | 🏆 Excellent Award [(PDF)](./awards/sw_festival_2025.pdf) | Hansung SW Festival |
-| 2025 | 🏆 Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
-| 2024 | 🏆 Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
-| 2024 | 🥉 Bronze Prize [(PDF)](./awards/engineering_2024.pdf) | Hansung Engineering Competition |
+| 2025 | Grand Prize [(PNG)](./awards/C&C_festival_2025.pdf) | Hansung C&C Festival |
+| 2025 | Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
+| 2025 | Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
+| 2025 | Encouragement Award [(PDF)](./awards/hanium_2025.pdf) | Hanium Dream-Up Project |
+| 2025 | Excellent Award [(PDF)](./awards/sw_festival_2025.pdf) | Hansung SW Festival |
+| 2025 | Excellent Award [(PDF)](./awards/capstone_spring_2025.pdf) | Hansung Capstone Design |
+| 2024 | Excellent Award [(PDF)](./awards/sw_festival_2024.pdf) | SW-centered Univ. Festival |
+| 2024 | Bronze Prize [(PDF)](./awards/engineering_2024.pdf) | Hansung Engineering Competition |
 
 > All award certificates can be found in the `awards/` folder.
 
