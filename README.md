@@ -29,8 +29,9 @@ I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My re
 
 ## Scholarships
 
-- **Top Hansung Talent Scholarship**, Hansung University, Mar. 2025  
-- **Excellent Hansung Performance Scholarship**, Hansung University, Sep. 2024
+- **SW Talent Scholarship**, Korea University, Spring 2026
+- **Top Hansung Talent Scholarship**, Hansung University, Spring 2025  
+- **Excellent Hansung Performance Scholarship**, Hansung University, Fall 2024
 
 ---
 
