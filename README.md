@@ -2,7 +2,10 @@
 
 Welcome to my GitHub.
 
-I am an incoming Integrated M.S.-Ph.D. student at Korea University (IBEL). My research interests lie at the intersection of Blockchain and Artificial Intelligence. Currently, I am focusing on Federated Learning, Security Token Offerings (STO), and developing secure Decentralized Applications (dApps).
+I am an Integrated M.S.–Ph.D. student in Computer Security at Korea University and a member of the Intelligent Blockchain Engineering Lab. (IBEL).
+
+My research interests include **Blockchain**, **AI Agents**, and **Cybersecurity**. I am particularly interested in building secure and trustworthy AI systems, decentralized applications (dApps), and next-generation blockchain technologies.
+
 
 ---
 
