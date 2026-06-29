@@ -42,6 +42,7 @@ My research interests include **Blockchain**, **AI Agents**, and **Cybersecurity
 
 | Year | Award | Organization |
 |------|-------|--------------|
+| 2026 | Grand Prize [(PDF)](./awards/ku_blockchain_2026.pdf) | Korea University Blockchain Competition |
 | 2025 | Grand Prize [(PNG)](./awards/C&C_festival_2025.pdf) | Hansung C&C Festival |
 | 2025 | Best Oral Presentation Award [(PNG)](./awards/ksae_2025.png) | KSAE Spring Conference |
 | 2025 | Honorable Mention [(PDF)](./awards/cisco_2025.pdf) | Cisco Innovation Challenge |
