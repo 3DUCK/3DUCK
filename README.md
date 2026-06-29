@@ -91,8 +91,8 @@ A system that generates advertising images using generative AI and integrates wi
 
 ## Contact
 
-- Email: [riven5124@hansung.ac.kr](mailto:riven5124@hansung.ac.kr)  
-- Affiliation: Hansung University, IMCS Lab
+- Email: [riven5124@korea.ac.kr](mailto:riven5124@korea.ac.kr)  
+- Affiliation: Korea University, IBEL
 
 ---
 
